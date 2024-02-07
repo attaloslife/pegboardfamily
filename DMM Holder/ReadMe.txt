@@ -8,3 +8,4 @@ Top opening have chamfers for easy placement of the DMM.
 
 For coloring the logos on the holder, I used Sharpies.
 
+Feel free to make and share, just credit me.
