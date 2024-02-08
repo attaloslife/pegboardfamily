@@ -25,9 +25,12 @@ Top opening have chamfers for easy placement of the DMM.
 
 For coloring the logos on the holder, I used Sharpies.
 
+https://www.youtube.com/watch?v=Gt5N_lq_5Gg
+
 Feel free to make and share, just **credit** us, please.
 ![PNG](https://github.com/attaloslife/SkadisFamily/assets/142540672/219e77bc-3e84-4b2d-97c3-779caad15854)
 
 <p align="center">
   <img src="https://github.com/attaloslife/SkadisFamily/assets/142540672/6726172b-1e1b-46f2-a58b-221aa7053736"/>
 </p>
+
