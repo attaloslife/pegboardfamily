@@ -1,4 +1,4 @@
-Here you will find the holders designed for Ikea Skadis.
+Here you will find customizable size pegboard and the holders designed for it which is also competible with Ikea Skadis.
 
 Every single folder contains subfolders; design files, media, and 3D Print files.
 1. Design Files folder contains the design in multiple formats.
